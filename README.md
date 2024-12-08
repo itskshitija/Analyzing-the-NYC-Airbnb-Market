@@ -1,1 +1,1 @@
-# Analyzing-the-NYC-Airbnb-Market
+# Analyzing the NYC Airbnb Market 
