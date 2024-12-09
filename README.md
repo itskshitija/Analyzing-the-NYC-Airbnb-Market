@@ -1,7 +1,10 @@
 # Analyzing the NYC Airbnb Market 
 
 ## Table of Contents
-
+- [Overview](#overview)
+- [Business Questions](#business-questions)
+- [Dashboard Preview](#dashboard-preview)
+- [Summary of Insights](#summary-of-insights)
 
 ### Overview
 Airbnb is an online marketplace connecting people who want to rent out their homes with people looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
@@ -45,4 +48,6 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 *What is the average price for listings with less than 100 days of availability?*
 
+### Dashboard Preview
 
+### Summary of Insights
