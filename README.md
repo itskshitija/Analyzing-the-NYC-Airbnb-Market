@@ -1,5 +1,7 @@
 # Analyzing the NYC Airbnb Market 
 
+## `Python🐍`   `Power BI📊`
+
 ## Table of Contents
 - [Overview](#overview)
 - [Business Questions](#business-questions)
