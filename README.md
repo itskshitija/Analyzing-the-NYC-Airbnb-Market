@@ -8,6 +8,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Objective](#objective)
 - [Business Questions](#business-questions)
 - [Dashboard Preview](#dashboard-preview)
 - [Summary of Insights](#summary-of-insights)
@@ -16,6 +17,9 @@
 Airbnb is an online marketplace connecting people who want to rent out their homes with people looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to determine the key metrics influencing the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors.
+
+### Objective
+understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables Our analysis provides useful information for travelers and hosts in the city and some of the best insights for the Airbnb business.
 
 ### Business Questions
 *Which are the top 10 host IDs with the most listings?*
