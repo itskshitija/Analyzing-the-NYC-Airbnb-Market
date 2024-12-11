@@ -4,7 +4,7 @@
 
 # Analyzing the NYC Airbnb Market 
 
-## `Python🐍`   `MySQL👩‍💻`
+## `Python🐍`   `PowerBI📊`
 
 ## Table of Contents
 - [Overview](#overview)
