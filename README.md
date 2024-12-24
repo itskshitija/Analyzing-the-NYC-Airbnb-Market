@@ -10,7 +10,7 @@
 - [🎯Introduction](#introduction)
 - [📌Objective](#objective)
 - [❓Business Question](#business-question)
-- [🔍Insights & Findings]
+- [🔍Insights & Findings](#insights-&-findings)
 
 ## Introduction 🏡
 Airbnb has transformed the global travel landscape by offering a unique platform for short-term stays. As one of the most sought-after destinations, New York City presents a vibrant Airbnb market. This analysis dives into the dataset to uncover actionable insights for travelers, hosts, and the Airbnb platform itself.
@@ -73,7 +73,6 @@ To explore and understand the dynamics of Airbnb listings in NYC, focusing on fa
 ✅On average, Airbnb listings in this dataset require a minimum stay of 7 nights. This indicates that, generally, hosts prefer longer bookings, possibly to reduce the frequency of turnover and related maintenance tasks. 
 
 # Connect 🤝
-- 📞 <b>Phone:</b> 7620424864
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
