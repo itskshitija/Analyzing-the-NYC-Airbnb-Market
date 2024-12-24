@@ -2,25 +2,25 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
 </a>
 
-# Analyzing the NYC Airbnb Market 
+# Analyzing the NYC Airbnb Market 🏨
 
 ## `Python🐍` `Exploratory Data Analysis📊`
 
-## Table of Contents
+## Table of Contents 📫
 - [Overview](#overview)
 - [Objective](#objective)
 - [Business Questions](#business-questions)
 - [Summary of Insights](#summary-of-insights)
 
-## Overview
+## Overview 🔍
 Airbnb is an online marketplace connecting people who want to rent out their homes with people looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to determine the key metrics influencing the listing of properties on the platform. For this project, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors.
 
-## Objective
+## Objective 🔎
 Understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables Our analysis provides useful information for travelers and hosts in the city and some of the best insights for the Airbnb business.
 
-## Business Questions
+## Business Questions 📶
 *Which are the top 10 host IDs with the most listings?*
 
 *What are the top 10 neighborhoods with the most property listings?*
@@ -57,7 +57,7 @@ Understanding the factors that influence Airbnb prices in New York City, or iden
 
 *What is the average price for listings with less than 100 days of availability?*
 
-## Summary of Insights
+## Summary of Insights 📊
 ✅ We analyzed the top 10 hosts to identify the one with the most property listings on Airbnb. Our findings show that Michael holds the top spot with 417 listings, making him the host with the highest number of properties. He is followed by David, who has the second-highest number of listings at 403. Additionally, our data reveals that 5,154 hosts have more than one listing on Airbnb.
 
 ✅ The data shows that only 1,295 listings were available year-round, indicating a limited number of consistently accessible properties. Additionally, the average number of listings per host is just one, suggesting that most hosts manage only a single property.
