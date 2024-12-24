@@ -4,7 +4,7 @@
 
 # Analyzing the NYC Airbnb Market 
 
-## `Python🐍` `Exploratory Data Analysis`
+## `Python🐍` `Exploratory Data Analysis📊`
 
 ## Table of Contents
 - [Overview](#overview)
