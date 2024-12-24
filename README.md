@@ -72,5 +72,13 @@ Understanding the factors that influence Airbnb prices in New York City, or iden
 
 🔰On average, Airbnb listings in this dataset require a minimum stay of 7 nights. This indicates that, generally, hosts prefer longer bookings, possibly to reduce the frequency of turnover and related maintenance tasks. 
 
+# **Author Information**
 
+#### 👤Kshitija Chilbule
 
+### Contact Information:
+- 📞 <b>Phone:</b> 7620424864
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
